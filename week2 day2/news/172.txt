@@ -1,0 +1,61 @@
+if (deployPhase === "local" || deployPhase === "dev") {
+nhn.rmcnmv.BUILD_PHASE = 'dev';
+}
+var videoId = 'E6D015C50C12CE1015A6539917A6A68D3809';
+var rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809 = new nhn.rmcnmv.RMCVideoPlayer('E6D015C50C12CE1015A6539917A6A68D3809','V126c76a892953a69b9b1d9da3dc67eb9f2d61c698180175ef94acf5260d278ba59bfd9da3dc67eb9f2d6','0', '0', '2006', nhn.rmcnmv.RMCVideoPlayer.type.AUTO);
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.autoPlay="true";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.coverImageURL="http://imgnews.naver.net/image/422/2019/11/23/cover_cover_MYH20191123001700038_20191123101402756.jpg";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.skinName="tvcast_white";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.hasRelativeMovie="true";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.controlBarMovable = "true";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.properties.wmode = "transparent";
+rmcPlayer_E6D015C50C12CE1015A6539917A6A68D3809.displayRMCPlayer();
+ Loading... player_likesound_mutesound_mutesound_volume2sound_volume3 [x]Player Size:0 x 0Current Resolution:0PMax Abr Resolution:0PProtocol:hlsCurrent Bandwidth:Average Bandwidth:Buffer Health:Frame Drop Rate:0/0 도움말라이센스Video Statistic Version 4.16.21 (HLS)Build Date (2019/11/12)NAVER Corp.     동영상 인코딩 중입니다.5분 이상 소요될 수 있으며, 영상의 길이에 따라 소요 시간은 달라집니다. topleft rightbottom마우스를 드래그 하세요360° Video도움말 MULTI TRACK멀티트랙의 트랙별 영상은 우측 관련영상에서 볼 수 있습니다.선거광고 안내       음소거00:00 | 01:53 화질 선택 옵션자동     자동       144p       270p       360p       480p       720p  HD      1080p  HD  화질  전체화면    00:11  00:34  00:57  01:19  01:42 광고정보 더보기초 후 SKIP초 후 재생SKIP광고 후 계속됩니다.SNS 공유소스 코드Band Twitter Facebook Blog CafeURL 주소복사HTML 소스544 x 306740 x 416936 x 5261280 x 720복사Flash 미지원으로 Object 코드 퍼가기 기능은 더 이상 지원되지
+않습니다.도움말 레이어 닫기
+
+
+
+
+
+
+[앵커] 
+
+프로야구 SK와이번스의 왼손 투수 김광현이 구단의 결단에 따라 메이저리그에 진출할 기회를 잡았습니다. 
+
+2014년 첫번째 도전은 우여곡절끝에 좌절됐는데요. 
+
+빅리그 마운드를 호령하는 또 한 명의 코리안리거가 탄생할 지 주목됩니다. 
+
+정주희 기자입니다.
+
+[기자]
+
+SK가 대승적 차원에서 김광현의 메이저리그 도전을 승인하기로 했습니다. 
+
+SK는 "팀의 에이스로 4차례 한국시리즈 우승을 이끌었고, 프랜차이즈 스타로서 팀에 보여 준 애정 등을 고려했다"고 설명했습니다.
+
+자유계약선수 자격을 갖추지 않은 코리안리거의 메이저리그 도전은 유례가 없었던데다, 팀의 전력 약화가 불보듯 뻔했지만, SK는 선수와 팬들의 의사를 존중했습니다.
+
+31살 적지않은 나이인 만큼 이번이 마지막 도전인 김광현은 구단에 감사함을 전했습니다.
+
+<김광현 / SK와이번스 왼손 투수> "앞으로가 더 중요한 것 같아요. 어느 팀을 가는 것도 중요하겠지만 가서 힘들더라도 응원해주시는 팬분들이 계시다고 생각하고 다 이겨낼 준비가 돼 있고요."
+
+김광현의 메이저리그 도전은 이번이 두번째 입니다.
+
+2014년 첫 도전에서는 최고액을 제시한 구단과만 협상하도록 한 규정에 따라 샌디에이고 입단을 추진하다가 좌절됐습니다. 
+
+하지만 메이저리그의 제도 변경에 따라 이번에는 빅리그 진출길이 훨씬 넓어졌습니다.
+
+다음달 5일까지 포스팅을 신청하고, 메이저리그 30개 구단과 한달 동안 자유롭게 협상할 수 있습니다.
+
+계약금이 적더라도 김광현이 포기하지만 않는다면 메이저리그에 진출할 가능성이 커진 것입니다. 
+
+메이저리그 진출을 강하게 열망해 온 김광현인 만큼, 협상이 순조롭게 진행된다면, 내년에는 메이저리그 타자들을 압도하는 또 한명의 한국인 왼손 투수를 볼 수 있게 됩니다.
+
+연합뉴스TV 정주희입니다. (gee@yna.co.kr)
+
+연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23
+
+ ▶ 연합뉴스TV 네이버 채널 구독   ▶ 생방송 시청
+ ▶ 대한민국 뉴스의 시작, 연합뉴스TV 앱 다운받기
+기사제공 연합뉴스TV

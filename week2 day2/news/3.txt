@@ -1,0 +1,31 @@
+if (deployPhase === "local" || deployPhase === "dev") {
+nhn.rmcnmv.BUILD_PHASE = 'dev';
+}
+var videoId = '85AE11FF224542ED85F75F84DF7CFAAB5CA8';
+var rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8 = new nhn.rmcnmv.RMCVideoPlayer('85AE11FF224542ED85F75F84DF7CFAAB5CA8','V129bed5a01ee26ff2b76ac7ee4c1a9d8683ce5a41020cf2bc4015208893b4b6ec4fbac7ee4c1a9d8683c','0', '0', '2006', nhn.rmcnmv.RMCVideoPlayer.type.AUTO);
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.autoPlay="true";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.coverImageURL="http://imgnews.naver.net/image/055/2019/11/23/cover_0000774251_001_20191123221037178.jpg";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.skinName="tvcast_white";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.hasRelativeMovie="true";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.controlBarMovable = "true";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.properties.wmode = "transparent";
+rmcPlayer_85AE11FF224542ED85F75F84DF7CFAAB5CA8.displayRMCPlayer();
+ Loading... player_likesound_mutesound_mutesound_volume2sound_volume3 [x]Player Size:0 x 0Current Resolution:0PMax Abr Resolution:0PProtocol:hlsCurrent Bandwidth:Average Bandwidth:Buffer Health:Frame Drop Rate:0/0 도움말라이센스Video Statistic Version 4.16.21 (HLS)Build Date (2019/11/12)NAVER Corp.     동영상 인코딩 중입니다.5분 이상 소요될 수 있으며, 영상의 길이에 따라 소요 시간은 달라집니다. topleft rightbottom마우스를 드래그 하세요360° Video도움말 MULTI TRACK멀티트랙의 트랙별 영상은 우측 관련영상에서 볼 수 있습니다.선거광고 안내       음소거00:00 | 00:27 화질 선택 옵션자동     자동       144p       270p       360p       480p       720p  HD      1080p  HD  화질  전체화면    00:03  00:08  00:14  00:19  00:25 광고정보 더보기초 후 SKIP초 후 재생SKIP광고 후 계속됩니다.SNS 공유소스 코드Band Twitter Facebook Blog CafeURL 주소복사HTML 소스544 x 306740 x 416936 x 5261280 x 720복사Flash 미지원으로 Object 코드 퍼가기 기능은 더 이상 지원되지
+않습니다.도움말 레이어 닫기
+
+
+
+
+
+
+프로야구 SK 선수들이 최근 화재 피해를 당한 강화도 장애인 시설을 돕기 위해 일일 카페를 열었는데요, 150여 명의 팬들도 함께했습니다.
+
+▶ [인-잇] 사람과 생각을 잇다
+▶ [제보하기] 모든 순간이 뉴스가 됩니다
+
+※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지
+
+
+
+
+기사제공 SBS

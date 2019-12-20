@@ -1,0 +1,66 @@
+if (deployPhase === "local" || deployPhase === "dev") {
+nhn.rmcnmv.BUILD_PHASE = 'dev';
+}
+var videoId = 'DA1BFFE1F3B14632052FD5F428D52BAF98F3';
+var rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3 = new nhn.rmcnmv.RMCVideoPlayer('DA1BFFE1F3B14632052FD5F428D52BAF98F3','V12994ed5a13e20ec2999b2c1489da387420ec926b7628d64bdfceb64da228614b7e5b2c1489da387420e','0', '0', '2006', nhn.rmcnmv.RMCVideoPlayer.type.AUTO);
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.autoPlay="true";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.coverImageURL="http://imgnews.naver.net/image/057/2019/11/23/cover_cover_20191123130625_20_675_1228779_360_7_0_20191123131100992.jpg";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.skinName="tvcast_white";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.hasRelativeMovie="true";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.controlBarMovable = "true";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.properties.wmode = "transparent";
+rmcPlayer_DA1BFFE1F3B14632052FD5F428D52BAF98F3.displayRMCPlayer();
+ Loading... player_likesound_mutesound_mutesound_volume2sound_volume3 [x]Player Size:0 x 0Current Resolution:0PMax Abr Resolution:0PProtocol:hlsCurrent Bandwidth:Average Bandwidth:Buffer Health:Frame Drop Rate:0/0 도움말라이센스Video Statistic Version 4.16.21 (HLS)Build Date (2019/11/12)NAVER Corp.     동영상 인코딩 중입니다.5분 이상 소요될 수 있으며, 영상의 길이에 따라 소요 시간은 달라집니다. topleft rightbottom마우스를 드래그 하세요360° Video도움말 MULTI TRACK멀티트랙의 트랙별 영상은 우측 관련영상에서 볼 수 있습니다.선거광고 안내       음소거00:00 | 01:45 화질 선택 옵션자동     자동       144p       270p       360p   화질  전체화면    00:11  00:32  00:53  01:14  01:35 광고정보 더보기초 후 SKIP초 후 재생SKIP광고 후 계속됩니다.SNS 공유소스 코드Band Twitter Facebook Blog CafeURL 주소복사HTML 소스544 x 306740 x 416936 x 5261280 x 720복사Flash 미지원으로 Object 코드 퍼가기 기능은 더 이상 지원되지
+않습니다.도움말 레이어 닫기
+
+
+
+
+
+
+【 앵커멘트 】
+  SK 김광현이 메이저리그 진출을 허락받았습니다.
+  구단의 대승적 결단이 또 한 명의 메이저리거를 탄생시키게 됐습니다.
+  김태일 기자입니다.
+
+【 기자 】
+  김광현이 등판하는 경기마다 메이저리그 스카우트들은 관중석 한 자리를 차지했습니다.
+
+  야구계의 화두는 올 시즌 종료 후 김광현이 메이저리그에 진출할 수 있을지였습니다.
+
+  김광현 본인도 메이저리그 진출 희망을 숨기지 않았습니다.
+
+  김광현은 지난 2016년 FA 계약을 맺어 2년 뒤인 2021년까지는 해외 진출 대상자는 아닙니다.
+
+  하지만, SK가 동의해준다면 포스팅시스템을 통해 메이저리그에 진출할 길은 있습니다.
+
+  이에 SK는 김광현의 메이저리그 도전을 허락하기로 했습니다.
+
+▶ 인터뷰(☎) : 손차훈 / SK와이번스 단장
+  「- "13년간 저희 구단에 입단하여 경기력적으로 그리고 인간적으로 보여줬던 헌신 이런 부분을 강하게 생각했었고…."」
+
+  SK는 김광현의 포스팅 의사를 메이저리그 사무국에 통보하도록 KBO에 요청할 예정입니다.
+
+▶ 인터뷰 : 김광현 / SK와이번스 투수
+- "메이저리그에서 SK와이번스 팬들 그리고 대한민국에 모든 저를 응원하시는 분들의 명함을 달고 있다고 생각하고 꼭 좋은 성적으로 보답 드리겠습니다."
+
+  김광현은 이제 메이저리그 사무국이 공시하면 빅리그 30개 구단과 자유롭게 협상할 수 있습니다.
+
+  지난 2014년 샌디에이고와의 협상에서 낮은 몸값 때문에 메이저리그 진출을 포기했던 김광현.
+
+  마지막이 될 이번 도전은 어떤 결과로 마무리될지 벌써부터 관심을 모으고 있습니다.
+
+  MBN뉴스 김태일입니다.
+
+▶네이버 메인에서 MBN뉴스를 만나보세요!
+▶MBN 무료 고화질 온에어 서비스 GO!
+▶파격 특가 비디오! 재미를 팝니다! 오세요 'ㅋㅋ마?'
+
+
+
+< Copyright ⓒ MBN(www.mbn.co.kr) 무단전재 및 재배포 금지 >
+
+
+
+
+기사제공 MBN
